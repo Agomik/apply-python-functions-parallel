@@ -2,7 +2,7 @@
 
 C++ library that enables to apply Python functions in parallel threads.
 
-The library header is in file `* ApplyPythonFunctions.h`.
+The library header is in file `ApplyPythonFunctions.h`.
 
 `ApplyPythonFunctions_pthread.cpp` is a POSIX thread implementation of the library.
 
