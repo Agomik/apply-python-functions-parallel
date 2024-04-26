@@ -1,5 +1,7 @@
 # ApplyPythonFunctions
 
+![Parallel architecture of the implementation based on POSIX threads.](pthread_parallel_architecture.png)
+
 C++ library that enables to apply Python functions in parallel threads.
 
 The library header is in file `ApplyPythonFunctions.h`.
