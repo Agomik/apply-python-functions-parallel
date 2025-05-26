@@ -12,6 +12,4 @@ The library header is in file `ApplyPythonFunctions.h`.
 
 The types shared among the implementations are defined in `APF_Types.h`.
 
-### Known bugs
-
-A crash issue has been spotted in subinterpreters when importing the some modules in multiple subinterpreters. The bug report can be found [here](https://github.com/python/cpython/issues/116524).
+~~A crash issue has been spotted in subinterpreters when importing the some modules in multiple subinterpreters. The bug report can be found [here](https://github.com/python/cpython/issues/116524).~~ Solved in Python 3.13
